@@ -1,7 +1,10 @@
 SWM score: swmte_score
   Indicates total error across 5 trials on CANTAB SWM task; greater score indicates more errors and worse performance
-Exercise: yq_phys_1
+Exercise (youth reported): yq_phys_1
   This data comes from  youth questionaire - "During the past 7 days, how many days were you physically active for a total of at least 60 minutes?"
   0 = 0 days, 7 = 7 days
+Exercise (parent reported): SAI-Q, activity not scored (excluded) if parent report no participation in the last 12 mo. 
+  reported: time spent (mins) per session, number of days per week when participating (perwk), number of of months year (nmonth)
+  calculated: past year mean hours per week per sport = ((tspent*perwk*nmonth)/52)/60
 Sex of subject reported in demographics
 Age of subject in months based on date tested
