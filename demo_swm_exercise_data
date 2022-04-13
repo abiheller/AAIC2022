@@ -1,0 +1,7 @@
+SWM score: swmte_score
+  Indicates total error across 5 trials on CANTAB SWM task; greater score indicates more errors and worse performance
+Exercise: yq_phys_1
+  This data comes from  youth questionaire - "During the past 7 days, how many days were you physically active for a total of at least 60 minutes?"
+  0 = 0 days, 7 = 7 days
+Sex of subject reported in demographics
+Age of subject in months based on date tested
